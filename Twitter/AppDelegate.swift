@@ -6,7 +6,6 @@
 //  Copyright © 2019 Dan. All rights reserved.
 //
 
-import UIKit
 import BDBOAuth1Manager
 
 @UIApplicationMain
